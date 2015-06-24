@@ -1,12 +1,12 @@
 # event-attr-to-promise
 HTML Event attribute to promise. JSPM-ready.
 
-Install:
+### Install
 ```bash
 jspm install event-attr-to-promise
 ```
 
-Usage:
+### Usage
 ```js
 import eventToPromise from 'event-attr-to-promise';
 
